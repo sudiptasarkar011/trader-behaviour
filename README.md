@@ -1,6 +1,6 @@
 # 🧠 Trader Behaviour
 
-A sentiment‑aware analysis of trader behaviour using *Fear vs. Greed* index and historical trade execution data.
+"Mutual funds are subject to market risks", yet no one reads the scheme related documents carefully :( No worries ! I got you covered. Here's a sentiment‑aware analysis of trader behaviour using *Fear vs. Greed* index and historical trade execution data.
 
 ---
 
